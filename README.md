@@ -8,9 +8,6 @@ A simple and interactive To-Do List application built with **HTML**, **CSS**, an
 - **Mark Tasks as Completed**: Click on a task to toggle its completed state (crossing it out and changing its background color).
 - **Delete Tasks**: Each task comes with a delete button to remove it from the list.
   
-## Screenshots
-
-![To-Do List Screenshot](./screenshot.png)
 
 ## Technologies Used
 
